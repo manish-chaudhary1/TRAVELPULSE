@@ -1,0 +1,4 @@
+scenario,demand_multiplier,total_demand,rooms_purchased,rooms_sold,unsold_rooms,revenue,recovery,procurement_cost,profit,probability
+Low Demand,0.8,20748.813403130873,48,48.0,0.0,171769.0,0.0,99995.06,71773.94,0.25
+Normal Demand,1.0,25936.01675391359,48,48.0,0.0,171769.0,0.0,99995.06,71773.94,0.5
+High Demand,1.2,31123.220104696305,48,48.0,0.0,171769.0,0.0,99995.06,71773.94,0.25
